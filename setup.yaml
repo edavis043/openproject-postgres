@@ -3,7 +3,7 @@ users:
     password: $POSTGRESQL_OPENPROJECT_PASSWORD
     role: superuser
 databases:
-  - name: openproject
+  - name: appz-devops
     owner: openproject
     tablespace:
       - name: tb1
